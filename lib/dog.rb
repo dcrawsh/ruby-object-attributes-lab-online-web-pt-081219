@@ -1,3 +1,5 @@
 class Dog 
-  def 
+  def name= (set_name)
+    @name = set_name
+  end
 end 
